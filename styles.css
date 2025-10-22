@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white; /* optionnel : texte en blanc pour rester lisible */
+    padding : 1em;
+}
+
+header {
+    background-color: rgb(59, 102, 229);
+    color: black;
+    padding: 1em;
+}
+
+#h1-custom {
+    color: purple
+}
+
+main {
+    background-color: rgb(197, 237, 21);
+    color: black;
+    padding: 1em;
+}
+
+.div-custom {
+    background-color: beige;
+}
+
+footer {
+    background-color: rgb(237, 21, 21);
+    color: black;
+    padding: 1em;
+}
+
