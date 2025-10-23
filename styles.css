@@ -7,6 +7,7 @@ body {
 header {
     background-color: rgb(59, 102, 229);
     padding: 1em;
+    border-radius: 15px; 
 }
 
 #h1-custom {
@@ -14,25 +15,30 @@ header {
 }
 
 main {
-    background-color: rgb(197, 237, 21);
-    
+    background-color: rgb(220, 220, 220);
+    border-radius: 15px;
     padding: 1em;
 }
 
-.carre-rouge {
-      width: 100px;       /* largeur du carré */
-      height: 100px;      /* hauteur du carré */
-      background-color: red; /* couleur rouge */
-      margin: 50px auto;
-      border-radius: 50px;
-    }
-
 .div-custom {
-    background-color: rgb(222, 90, 140);
-}
+    background-color: rgb(61, 72, 228);
+    border-radius: 15px;
+    padding : 1em;  
+}   
 
 footer {
     background-color: rgb(237, 21, 21);
     padding: 1em;
+    border-radius: 15px;
+
+    
 }
+
+.rond-rouge {
+      width: 100px;       /* largeur du rond */
+      height: 100px;      /* hauteur du rond */
+      background-color: red; /* couleur rouge */
+      margin: 50px auto; /* espace vers le bas puis centrage auto*/
+      border-radius: 50px; /* en fais en sorte qu'il soit rond*/
+    }
 
