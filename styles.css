@@ -26,6 +26,18 @@ main {
     padding : 1em;  
 }   
 
+.div-custom-2 {
+    background-color: rgb(194, 194, 194);
+    border-radius: 15px;
+    padding : 1em;  
+}
+
+.div-custom-3 {
+    background-color: rgb(201, 29, 29);
+    border-radius: 15px;
+    padding : 1em;  
+}
+
 footer {
     background-color: rgb(237, 21, 21);
     padding: 1em;
